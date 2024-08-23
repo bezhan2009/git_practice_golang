@@ -7,5 +7,5 @@ func sum(a uint, b uint) uint {
 }
 
 func main() {
-	fmt.Println(sum(1, 2))
+	fmt.Println("Sum:", sum(1, 2))
 }
